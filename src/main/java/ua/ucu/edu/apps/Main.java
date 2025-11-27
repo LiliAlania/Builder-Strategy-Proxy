@@ -26,9 +26,7 @@ public class Main {
         // System.out.println(user);
         MailSender mailsender new MailSender();
         mailsender.sendMail(new MailInfo());
-        MailInfo mailinfo = new MailInfo(new Client(), )
-
-
+        MailInfo mailinfo = new MailInfo(new Client() )
 
     }
 }
